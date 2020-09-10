@@ -1,0 +1,13 @@
+C:\Users\Lauren\source\repos\Deliverable1 Lab\bin\Debug\netcoreapp3.1\Deliverable1 Lab.exe
+C:\Users\Lauren\source\repos\Deliverable1 Lab\bin\Debug\netcoreapp3.1\Deliverable1 Lab.deps.json
+C:\Users\Lauren\source\repos\Deliverable1 Lab\bin\Debug\netcoreapp3.1\Deliverable1 Lab.runtimeconfig.json
+C:\Users\Lauren\source\repos\Deliverable1 Lab\bin\Debug\netcoreapp3.1\Deliverable1 Lab.runtimeconfig.dev.json
+C:\Users\Lauren\source\repos\Deliverable1 Lab\bin\Debug\netcoreapp3.1\Deliverable1 Lab.dll
+C:\Users\Lauren\source\repos\Deliverable1 Lab\bin\Debug\netcoreapp3.1\Deliverable1 Lab.pdb
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.csprojAssemblyReference.cache
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.AssemblyInfoInputs.cache
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.AssemblyInfo.cs
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.csproj.CoreCompileInputs.cache
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.dll
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.pdb
+C:\Users\Lauren\source\repos\Deliverable1 Lab\obj\Debug\netcoreapp3.1\Deliverable1 Lab.genruntimeconfig.cache
